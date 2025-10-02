@@ -33,7 +33,7 @@ Built with core Java using `Scanner` for input and `Random` for generating lotte
 
 2. Navigate to the project folder:
     ```bash
-   cd lottery-game
+   cd Lottery-System-Remake
 
 3. Compile the Java files:
     ```bash
