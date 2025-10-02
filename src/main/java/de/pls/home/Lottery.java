@@ -75,7 +75,8 @@ public class Lottery {
         while (userNums.size() != 6) {
 
             System.out.println("Please enter a unique Number:");
-            int input = scanner.nextInt(); scanner.nextLine();
+            int input = scanner.nextInt();
+            scanner.nextLine();
 
             if (!userNums.add(input)) {
                 System.out.println("Enter a unique Number!\n");
